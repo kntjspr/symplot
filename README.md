@@ -1,4 +1,4 @@
-# Function Visualizer
+# symplot - A Function Visualizer
 
 A Python application for visualizing mathematical functions, their derivatives, and integrals using computational methods.
 
