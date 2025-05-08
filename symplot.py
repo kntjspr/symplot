@@ -10,7 +10,7 @@ import os
 class FunctionVisualizer:
     def __init__(self, root):
         self.root = root
-        self.root.title("Function Visualizer")
+        self.root.title("symplot")
         self.root.geometry("1200x800")
         
         # Set up sympy
